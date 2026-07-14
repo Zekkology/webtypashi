@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(238, 241, 238);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    background-color: #eae8ea;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+   
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
